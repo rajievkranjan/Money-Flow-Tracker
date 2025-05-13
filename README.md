@@ -33,3 +33,10 @@ A simple, user-authenticated web app for tracking income and expenses. Built wit
 ├── static/ # (Optional) For CSS or JS
 ├── finance.db # SQLite database (auto-created)
 └── requirements.txt # Python dependencies
+👤 Author
+Rajiev K Ranjan
+Commerce graduate passionate about tech
+If you like this project, please ⭐ the repo!
+
+📄 License
+This project is licensed under the MIT License.
