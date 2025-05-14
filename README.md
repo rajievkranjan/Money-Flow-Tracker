@@ -10,7 +10,7 @@ A simple, user-authenticated web app for tracking income and expenses. Built wit
 - 📈 Automatic calculation of total income and expenses
 - 🛠️ Built with Python, Flask, SQLAlchemy
 
-## 🖼️ Screens (Optional: Add screenshots if available)
+## 🖼️ Screens 
 
 - Login / Register Page
 - Dashboard with total income and expenses
